@@ -1,0 +1,8 @@
+{
+  "name": "AI Learning Companion",
+  "description": "An interactive, personalized educational assistant powered by Gemini. Features include Ask Anything Q&A, custom day-wise Study Plan generation, Interactive Quizzes, and Document-based Retrieval-Augmented Generation (RAG) learning assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
